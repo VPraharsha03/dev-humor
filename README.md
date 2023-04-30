@@ -2,7 +2,7 @@
   <img align="center" width="100" src="assets/logo.png" />
 
   <h1 align="center">Github Readme Quotes</h1>
-  <h3 align="center">Developer Quotes for your Github Readme.</h3>
+  <h3 align="center">Meme Version of Dev Quotes for your Github Readme.</h3>
 </p>
 
 <!-- Badges -->
@@ -22,7 +22,7 @@
 
 <!-- Links -->
 <p align="center">
-  <a href="https://quotes-github-readme.vercel.app/api" target="_blank">View Demo</a>
+  <a href="https://dev-humor.vercel.app/api" target="_blank">View Demo</a>
   <span> · </span>
   <a href="https://github.com/piyushsuthar/github-readme-quotes/issues" target="_blank">Report Bug</a>
 </p>
@@ -37,7 +37,7 @@
 Copy the markdown below and paste it in your Github Readme.
 
 ```md
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://dev-humor.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ```
 
 ### Options
@@ -71,25 +71,25 @@ npx vercel dev
 
 > You don't need to add **?type=vertical** parameter.
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://dev-humor.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Horizontal
 
 > You need to add **?type=horizontal** parameter.
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://dev-humor.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Light
 
 > You don't need to add **?theme=light** parameter.
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://dev-humor.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Dark
 
 > You need to add **?theme=dark** parameter.
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://dev-humor.vercel.app/api?theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Catppuccin
 
@@ -102,38 +102,38 @@ npx vercel dev
 
 > You need to add **?theme=catppuccin\_\<variant>** parameter. The current example is the Mocha variant, to use it add **?theme=catppuccin_mocha**.
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://dev-humor.vercel.app/api?theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Algolia
 
 > You need to add **?theme=algolia** parameter.
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://dev-humor.vercel.app/api?theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Monokai
 
 > You need to add **?theme=monokai** parameter.
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://dev-humor.vercel.app/api?theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Dracula
 
 > You need to add **?theme=dracula** parameter.
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://dev-humor.vercel.app/api?theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Nord
 
 > You need to add **?theme=nord** parameter.
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://dev-humor.vercel.app/api?theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## Custom
 
 > You need to add **?quote=Your Quote** parameter.
 > URL encode your quote.
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=My%20Quote)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://dev-humor.vercel.app/api?quote=My%20Quote)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## Contributing 🤝
 
