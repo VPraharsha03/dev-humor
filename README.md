@@ -1,22 +1,20 @@
 <p align="center">
   <img align="center" width="100" src="assets/logo.png" />
 
-  <h1 align="center">Github Readme Quotes</h1>
-  <h3 align="center">Meme Version of Dev Quotes for your Github Readme.</h3>
+  <h1 align="center">Github README Meme Quotes</h1>
+  <h3 align="center">😂 Meme Version of Dev Quotes for your Github Readme.</h3>
 </p>
+
+<p align="center">Feel free to open a PR if you've a really funny quote to share !</p>
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/PiyushSuthar/github-readme-quotes/issues">
-    <img src="https://img.shields.io/github/issues/PiyushSuthar/github-readme-quotes?style=flat-square">
+  <a href="https://github.com/VPraharsha03/dev-humor/issues">
+    <img src="https://img.shields.io/github/issues/VPraharsha03/dev-humor?style=flat-square">
   </a>
 
-  <a href="https://github.com/PiyushSuthar/github-readme-quotes/pulls">
-    <img src="https://img.shields.io/github/issues-pr/PiyushSuthar/github-readme-quotes?style=flat-square">
-  </a>
-  
-  <a href="https://twitter.com/piyushsthr" target="_blank">
-    <img alt="Twitter: piyushsthr" src="https://img.shields.io/twitter/follow/piyushsthr.svg?style=social" />
+  <a href="https://github.com/VPraharsha03/dev-humor/pulls">
+    <img src="https://img.shields.io/github/issues-pr/VPraharsha03/dev-humor?style=flat-square">
   </a>
 </p>
 
@@ -24,7 +22,7 @@
 <p align="center">
   <a href="https://dev-humor.vercel.app/api" target="_blank">View Demo</a>
   <span> · </span>
-  <a href="https://github.com/piyushsuthar/github-readme-quotes/issues" target="_blank">Report Bug</a>
+  <a href="https://github.com/VPraharsha03/dev-humor/issues" target="_blank">Report Bug</a>
 </p>
 
 ## Features ✨
@@ -143,7 +141,7 @@ Feel free to check [issues page](https://github.com/PiyushSuthar/github-readme-q
 
 ## Special Thanks ❤
 
-- Inspired from [AnuragHazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
+- Inspired from [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) & [AnuragHazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 - [skolakoda/programming-quotes-api](https://github.com/skolakoda/programming-quotes-api) for Quotes API.
 - And a huge shoutout to [Mini Ware](https://github.com/Mini-Ware) for his immense contribution to this project!
 
@@ -151,13 +149,4 @@ Feel free to check [issues page](https://github.com/PiyushSuthar/github-readme-q
 
 Be sure to drop a 🌟 if you like the project!
 
-## Author 🤗
-
-👤 **Piyush Suthar**
-
-- Website: https://piyushsuthar.github.io
-- Twitter: [@piyushsthr](https://twitter.com/piyushsthr)
-- Github: [@PiyushSthr](https://github.com/PiyushSthr)
-- LinkedIn: [@piyushsthr](https://linkedin.com/in/piyushsthr)
-
-<div align="center">Made by Piyush with ❤ and TypeScript</div>
+<div align="center">Made with ❤ and TypeScript</div>
